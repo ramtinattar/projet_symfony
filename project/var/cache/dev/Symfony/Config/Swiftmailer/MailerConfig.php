@@ -61,7 +61,7 @@ class MailerConfig
     }
     
     /**
-     * @default '/usr/sbin/sendmail -bs'
+     * @default '/usr/sbin/sendmail -t -i'
      * @param ParamConfigurator|mixed $value
      * @return $this
      */

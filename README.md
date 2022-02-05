@@ -5,8 +5,9 @@ Comment démarrer le projet (Étape par étape) 💻 :
 ● git clone https://github.com/ramtinattar/projet_symfony.git
 ● cd project 
 ● composer update/composer install
-● docker-compose up -d
+● cd ..
 ● docker-compose build
+● docker-compose up -d
 ● docker exec -it www_docker_symfony bash
 ● cd project
 ● php bin/console doctrine:database:create

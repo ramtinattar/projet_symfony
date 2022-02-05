@@ -1,0 +1,7 @@
+c6d906,172.21.0.1,GET,http://localhost:8741/,1644094696,da5e74,500
+da5e74,172.21.0.1,GET,http://localhost:8741/,1644094696,,500
+fb189d,172.21.0.1,GET,http://localhost:8741/,1644094813,,200
+a31940,172.21.0.1,GET,http://localhost:8741/favicon.ico,1644094813,cbc92e,404
+cbc92e,172.21.0.1,GET,http://localhost:8741/favicon.ico,1644094813,,404
+08e960,172.21.0.1,GET,http://localhost:8741/adverts/aquitaine,1644094822,,200
+61547f,172.21.0.1,GET,http://localhost:8741/deals,1644094825,,200
